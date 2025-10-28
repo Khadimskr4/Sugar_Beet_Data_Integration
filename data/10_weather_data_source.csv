@@ -1,0 +1,23 @@
+year;site_no;site;temperature_source;precipitation_source;global_radiation;14h_air_temperature_humidity_source
+2000;1;Kannemoor;Nordzucker/St. Michaelisdonn;Nordzucker/St. Michaelisdonn;DWD/Hamburg;DWD/Helse, Kr. Dithmarschen
+2000;2;Reutershof;Danisco Sugar/on-site weather station;Danisco Sugar/on-site weather station;Danisco Sugar/on-site weather station;Danisco Sugar/on-site weather station
+2000;3;Suderburg;FH Nordostniedersachsen/Suderburg;FH Nordostniedersachsen/Suderburg;DWD/Braunschweig;DWD/Unterlüß
+2000;4;Hamersleben;Agrargenossenschaft Hamersleben/Hamersleben;Agrargenossenschaft Hamersleben/Hamersleben;DWD/Braunschweig;DWD/Helmstedt
+2000;5;Wörbzig;Diamant-Zucker/Könnern;Metternich KG/Wörbzig;"DWD/Halle (0-131 dps); Diamant-Zucker/Könnern (132 dps ff.)";DWD/Köthen (Anhalt)
+2000;6;Harste;Institute of Sugar Beet Research (IfZ)/on-site weather station;IfZ/on-site weather station;IfZ/on-site weather station;IfZ/on-site weather station
+2000;7;Friemar;Thüringer Landesanstalt für Landwirtschaft (TLLLR)/Friemar;TLLLR/Friemar;TLLLR/Friemar;TLLLR/Friemar
+2000;8;Kelz;Deutscher Wetterdienst (DWD)/Nörvenich (Flugplatz);DWD/weather station Nörvenich (Flugplatz);DWD/Bonn;DWD/Euskirchen
+2000;9;Heuchelheim;Agrarmeteorologie Rheinland-Pfalz (DLR-RLP)/Frankenthal;DLR-RLP/Frankenthal;DLR-RLP/Frankenthal;DWD/Worms
+2000;10;Euerhausen;Bayerische Landesanstalt für Landwirtschaft (LfL)/Euerhausen;LfL/Euerhausen;DWD/Würzburg;LfL/Euerhausen
+2000;11;Plattling;LfL/Uttenkofen;LfL/Uttenkofen;DWD/Passau;LfL/Uttenkofen
+2001;1;Kannemoor;Nordzucker/St. Michaelisdonn;Nordzucker/St. Michaelisdonn;DWD/Hamburg;DWD/Helse, Kr. Dithmarschen
+2001;2;Reutershof;Danisco Sugar/on-site weather station;Danisco Sugar/on-site weather station;Danisco Sugar/on-site weather station;Danisco Sugar/on-site weather station
+2001;3;Suderburg;FH Nordostniedersachsen/Suderburg;FH Nordostniedersachsen/Suderburg;DWD/Braunschweig;DWD/Unterlüß
+2001;4;Hamersleben;Agrargenossenschaft Hamersleben/Hamersleben;Agrargenossenschaft Hamersleben/Hamersleben;DWD/Braunschweig;DWD/Ummendorf
+2001;5;Wörbzig;Diamant-Zucker/Könnern;Metternich KG/Wörbzig;Diamant-Zucker/Könnern;DWD/Köthen (Anhalt)
+2001;6;Harste;IfZ/on-site weather station;IfZ/on-site weather station;IfZ/on-site weather station;IfZ/on-site weather station
+2001;7;Friemar;TLLLR/Friemar;TLLLR/Friemar;TLLLR/Friemar;DWD/Weimar
+2001;8;Kelz;DWD/Nörvenich (Flugplatz);DWD/Nörvenich (Flugplatz);DWD/Bonn;"DWD/Euskirchen (0-47dps); Nörvenich Flugplatz (47 dps ff.)"
+2001;9;Heuchelheim;DLR-RLP/Kleinniedesheim;DLR-RLP/Kleinniedesheim;DLR-RLP/Kleinniedesheim;DWD/Worms
+2001;10;Euerhausen;"LfL/Randersacker (0-36 dps); Euerhausen (37 dps ff.)";DWD/Bütthard;DWD/Würzburg;"LfL/Randersacker (0-36 dps); Euerhausen (37 dps ff.)"
+2001;11;Plattling;LfL/Uttenkofen;LfL/Uttenkofen;DWD/Passau;LfL/Uttenkofen

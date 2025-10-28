@@ -1,0 +1,29 @@
+Fertilization;site_no;site;date;N-fertiliser;amount_N;Unit_amount_N
+Fertilization;1;Kannemoor;2000-03-30;calcium ammonium nitrate;110;kg N/ha
+Fertilization;2;Reutershof;2000-03-24;urea ammonium nitrate;60;kg N/ha
+Fertilization;3;Suderburg;2000-03-15;monoammonium phosphate;12;kg N/ha
+Fertilization;3;Suderburg;2000-03-20;urea;80;kg N/ha
+Fertilization;3;Suderburg;2000-04-06;urea;80;kg N/ha
+Fertilization;4;Hamersleben;2000-03-23;urea ammonium nitrate;70;kg N/ha
+Fertilization;5;Wörbzig;2000-04-13;urea ammonium nitrate;77;kg N/ha
+Fertilization;5;Wörbzig;2000-05-02;monoammonium phosphate;28;kg N/ha
+Fertilization;6;Harste;2000-04-09;urea ammonium nitrate;116;kg N/ha
+Fertilization;7;Friemar;2000-04-17;calcium ammonium nitrate;110;kg N/ha
+Fertilization;8;Kelz;2000-04-05;urea ammonium nitrate;80;kg N/ha
+Fertilization;8;Kelz;2000-05-04;diammonium phosphate;65;kg N/ha
+Fertilization;9;Heuchelheim;2000-03-11;calcium ammonium nitrate;81;kg N/ha
+Fertilization;10;Euerhausen;2000-03-22;calcium ammonium nitrate;80;kg N/ha
+Fertilization;11;Plattling;2000-04-08;calcium ammonium nitrate;80;kg N/ha
+Fertilization;11;Plattling;2000-05-09;calcium ammonium nitrate;50;kg N/ha
+Fertilization;1;Kannemoor;2001-04-22;calcium ammonium nitrate;130;kg N/ha
+Fertilization;2;Reutershof;2001-05-15;calcium ammonium nitrate;54;kg N/ha
+Fertilization;3;Suderburg;2001-03-26;urea;92.5;kg N/ha
+Fertilization;4;Hamersleben;2001-04-05;urea ammonium nitrate;110;kg N/ha
+Fertilization;5;Wörbzig;2001-04-17;diammonium phosphate;45;kg N/ha
+Fertilization;5;Wörbzig;2001-04-19;urea ammonium nitrate;72;kg N/ha
+Fertilization;6;Harste;2001-04-24;urea ammonium nitrate;80;kg N/ha
+Fertilization;7;Friemar;2001-04-18;calcium ammonium nitrate;70;kg N/ha
+Fertilization;9;Heuchelheim;2001-04-13;calcium ammonium nitrate;100;kg N/ha
+Fertilization;9;Heuchelheim;2001-04-30;calcium ammonium nitrate;50;kg N/ha
+Fertilization;10;Euerhausen;2001-04-02;calcium ammonium nitrate;100;kg N/ha
+Fertilization;11;Plattling;2001-05-05;calcium ammonium nitrate;90;kg N/ha
