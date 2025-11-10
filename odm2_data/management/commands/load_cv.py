@@ -213,8 +213,8 @@ class Command(BaseCommand):
         # CV_RelationshipType
         # ----------------------------
         for term, name, definition, category, uri in [
-            ("isParent", "isParent", "Parent relation.", "Graph", ""),
-            ("isPartOf", "isPartOf", "Part-of relation.", "Graph", ""),
+            ("isParent", "isParent", "Parent relation.", "Graph", "https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/relationType/"),
+            ("isPartOf", "isPartOf", "Part-of relation.", "Graph", "https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/relationType/"),
         ]:
             _, was_created = self._get_or_create_cv(CV_RelationshipType, name, {
                 "Term": term, "Definition": definition, "Category": category, "SourceVocabularyURI": uri
