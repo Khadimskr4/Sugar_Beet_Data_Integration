@@ -45,10 +45,10 @@ class Command(BaseCommand):
         # Variable amount_N (déjà dans tes CV normalement)
         amount_cv = self._ensure_cv(CV_VariableName, "amount_N")
 
-        # Unités: priorité "kg N/ha", fallback "kg/ha"
-        default_unit = self._resolve_unit(["kg N/ha", "kg/ha"])
+        # Unités: priorité "kg/ha", fallback "kg/ha"
+        default_unit = self._resolve_unit(["kg/ha", "kg/ha"])
         if not default_unit:
-            self.stderr.write("❌ Aucune unité disponible parmi ['kg N/ha','kg/ha'] dans CV_Units. Lance d'abord `load_cv`.")
+            self.stderr.write("❌ Aucune unité disponible parmi ['kg/ha','kg/ha'] dans CV_Units. Lance d'abord `load_cv`.")
             return
 
         with open(path, encoding=enc, newline="") as f:
